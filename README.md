@@ -1,4 +1,4 @@
-# Docker Compose setup for Symfony Application
+# Docker Compose setup for Symfony[6.3] Application
 
 
 
